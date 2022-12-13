@@ -61,10 +61,10 @@
                     required
                   />
                   <p></p>
-              <input type="submit" name="login" value="Login" class="signin">
+              <input type="submit" name="regis" value="Register" class="signin">
               <button class="signin-google">
                 <img src="asset/google-logo-9824 1.png" alt="" />
-                Sign In With Google
+                Sign Up With Google
               </button>
               <div class="text-center">
                 <span class="d-inline">
